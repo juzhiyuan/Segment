@@ -1,4 +1,4 @@
 # blog
 > 记录一些非常零碎的代码片段，等。
 
-另外一个博客 [https://i.shaoyaoju.org](https://i.shaoyaoju.org)
+另一个博客 [https://i.shaoyaoju.org](https://i.shaoyaoju.org)
