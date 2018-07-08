@@ -1,11 +1,11 @@
 # site title
-title:
+title: Shaoyao·琚
 
 # user name or organization name
-user:
+user: juzhiyuan
 
 # issue repository
-repository:
+repository: https://github.com/juzhiyuan/Segment
 
 # multi-author
 authors:
@@ -13,10 +13,10 @@ authors:
 # token
 # token should be separated by '#'
 # example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
-token:
+token: 7#ab78331e31f6646eb118390566ac3ab5c31cec9
 
 # posts per page
-perpage:
+perpage: 8
 
 
 # advance config
